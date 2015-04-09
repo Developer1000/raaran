@@ -12,6 +12,7 @@
 		A0272B331AC494DA00806020 /* HomeLayoutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0272B321AC494DA00806020 /* HomeLayoutViewController.swift */; };
 		A0272B351AC498E500806020 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0272B341AC498E500806020 /* CollectionViewCell.swift */; };
 		A0272B371AC49BFF00806020 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0272B361AC49BFF00806020 /* DetailViewController.swift */; };
+		A07C0E581AD6FF6B0041A31A /* SubCategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07C0E571AD6FF6B0041A31A /* SubCategoryViewController.swift */; };
 		A0ADA6871AC08986002AB29E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0ADA6861AC08986002AB29E /* AppDelegate.swift */; };
 		A0ADA68A1AC08986002AB29E /* KidsPictureDictionary.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A0ADA6881AC08986002AB29E /* KidsPictureDictionary.xcdatamodeld */; };
 		A0ADA68C1AC08986002AB29E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0ADA68B1AC08986002AB29E /* ViewController.swift */; };
@@ -41,6 +42,7 @@
 		A0272B321AC494DA00806020 /* HomeLayoutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeLayoutViewController.swift; sourceTree = "<group>"; };
 		A0272B341AC498E500806020 /* CollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 		A0272B361AC49BFF00806020 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		A07C0E571AD6FF6B0041A31A /* SubCategoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubCategoryViewController.swift; sourceTree = "<group>"; };
 		A0ADA6811AC08986002AB29E /* KidsPictureDictionary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KidsPictureDictionary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0ADA6851AC08986002AB29E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A0ADA6861AC08986002AB29E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 		A0ADA6831AC08986002AB29E /* KidsPictureDictionary */ = {
 			isa = PBXGroup;
 			children = (
+				A07C0E571AD6FF6B0041A31A /* SubCategoryViewController.swift */,
 				D84A8DC21ACB79C100C4B137 /* CategoryPlist */,
 				A0ADA6861AC08986002AB29E /* AppDelegate.swift */,
 				A0ADA68B1AC08986002AB29E /* ViewController.swift */,
@@ -261,6 +264,7 @@
 				D8F6B3771ACCCA7C0033AC4D /* DataHelper.swift in Sources */,
 				A0ADA68A1AC08986002AB29E /* KidsPictureDictionary.xcdatamodeld in Sources */,
 				A0272B371AC49BFF00806020 /* DetailViewController.swift in Sources */,
+				A07C0E581AD6FF6B0041A31A /* SubCategoryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
