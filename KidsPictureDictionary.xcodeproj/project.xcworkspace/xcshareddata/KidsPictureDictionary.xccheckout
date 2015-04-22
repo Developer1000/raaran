@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FD9D2DD2-C9F7-44DA-9AC7-E4CF4FD55290</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KidsPictureDictionary</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B5B92F8E35D1068B9A98D79ED9C871C6108C2A20</key>
+		<string>https://github.com/Developer1000/raaran.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KidsPictureDictionary.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B5B92F8E35D1068B9A98D79ED9C871C6108C2A20</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Developer1000/raaran.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B5B92F8E35D1068B9A98D79ED9C871C6108C2A20</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B5B92F8E35D1068B9A98D79ED9C871C6108C2A20</string>
+			<key>IDESourceControlWCCName</key>
+			<string>raaran</string>
+		</dict>
+	</array>
+</dict>
+</plist>

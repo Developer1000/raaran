@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>1_en</key><string>GrandFather</string><key>1_hn</key><string>दादा</string><key>1_ta</key><string>தாத்தா</string><key>1_kn</key><string>ಅಜ್ಜ (Ajja)</string><key>1_te</key><string></string><key>1_bn</key><string>পিতামহ</string><key>1_mr</key><string></string>
+<key>2_en</key><string>GradMother</string><key>2_hn</key><string>दादी</string><key>2_ta</key><string>பாட்டி</string><key>2_kn</key><string>ಅಜ್ಜಿ (Ajji)</string><key>2_te</key><string></string><key>2_bn</key><string>নানী</string><key>2_mr</key><string></string>
+<key>3_en</key><string>Uncle</string><key>3_hn</key><string>चाचा</string><key>3_ta</key><string>மாமா</string><key>3_kn</key><string>ಮಾವ (maava)</string><key>3_te</key><string></string><key>3_bn</key><string>চাচা</string><key>3_mr</key><string></string>
+<key>4_en</key><string>Mother</string><key>4_hn</key><string>माँ</string><key>4_ta</key><string>அம்மா</string><key>4_kn</key><string>ತಾಯಿ (Tāyi)</string><key>4_te</key><string></string><key>4_bn</key><string>মা</string><key>4_mr</key><string></string>
+<key>5_en</key><string>Father</string><key>5_hn</key><string>पिता</string><key>5_ta</key><string>அப்பா</string><key>5_kn</key><string>ತಂದೆ (Tande)</string><key>5_te</key><string></string><key>5_bn</key><string>বাবা</string><key>5_mr</key><string></string>
+<key>6_en</key><string>Aunt</string><key>6_hn</key><string>चाची</string><key>6_ta</key><string>சித்தி</string><key>6_kn</key><string></string><key>6_te</key><string></string><key>6_bn</key><string>মাসী</string><key>6_mr</key><string></string>
+<key>7_en</key><string>Cousin</string><key>7_hn</key><string>चचेरा भाई</string><key>7_ta</key><string> பெரியப்பா மகள்</string><key>7_kn</key><string></string><key>7_te</key><string></string><key>7_bn</key><string>মামাতো ভাই</string><key>7_mr</key><string></string>
+<key>8_en</key><string>Brother</string><key>8_hn</key><string>भाई</string><key>8_ta</key><string>அண்ணா</string><key>8_kn</key><string></string><key>8_te</key><string></string><key>8_bn</key><string>ভাই</string><key>8_mr</key><string></string>
+<key>9_en</key><string>Sister</string><key>9_hn</key><string>बहन</string><key>9_ta</key><string>அக்கா</string><key>9_kn</key><string></string><key>9_te</key><string></string><key>9_bn</key><string>বোন</string><key>9_mr</key><string></string>
+<key>10_en</key><string>Sister-Law</string><key>10_hn</key><string>ननद</string><key>10_ta</key><string>ஓரகத்தி</string><key>10_kn</key><string></string><key>10_te</key><string></string><key>10_bn</key><string>শালী</string><key>10_mr</key><string></string>
+<key>11_en</key><string>Brother-Law</string><key>11_hn</key><string>देवर</string><key>11_ta</key><string>மைத்துனன்</string><key>11_kn</key><string></string><key>11_te</key><string></string><key>11_bn</key><string>শ্যালক</string><key>11_mr</key><string></string>
+<key>12_en</key><string>Nephew</string><key>12_hn</key><string>भतीजा</string><key>12_ta</key><string>அண்ணன் மகன்</string><key>12_kn</key><string></string><key>12_te</key><string></string><key>12_bn</key><string>ভাইপো</string><key>12_mr</key><string></string>
+<key>13_en</key><string>Niece</string><key>13_hn</key><string>भतीजी</string><key>13_ta</key><string>தம்பி மகள்</string><key>13_kn</key><string></string><key>13_te</key><string></string><key>13_bn</key><string>ভাইঝি</string><key>13_mr</key><string></string>
+<key>14_en</key><string>Daughter</string><key>14_hn</key><string>बेटी</string><key>14_ta</key><string>மகள்  </string><key>14_kn</key><string></string><key>14_te</key><string></string><key>14_bn</key><string>মেয়ে</string><key>14_mr</key><string></string>
+<key>15_en</key><string>Son</string><key>15_hn</key><string>बेटा</string><key>15_ta</key><string>மகன்</string><key>15_kn</key><string></string><key>15_te</key><string></string><key>15_bn</key><string>ছেলে</string><key>15_mr</key><string></string>
+</dict>
+</plist>

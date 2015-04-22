@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>1_en</key><string>Cauliflower</string><key>1_hn</key><string>फूल गोभी</string><key>1_ta</key><string>பூக்கோசு</string><key>1_kn</key><string>ಹೂಕೋಸು (Hūkōsu)</string><key>1_te</key><string></string><key>1_bn</key><string>ফুলকপি</string><key>1_mr</key><string></string>
+<key>2_en</key><string>Brococlli</string><key>2_hn</key><string>हरी फूलगोभी</string><key>2_ta</key><string>பச்சை பூக்கோசு</string><key>2_kn</key><string>ಕೋಸುಗಡ್ಡೆ ( koosugadde)</string><key>2_te</key><string></string><key>2_bn</key><string>ব্রোকলি</string><key>2_mr</key><string></string>
+<key>3_en</key><string>Cabbage</string><key>3_hn</key><string>बंद-गोभी</string><key>3_ta</key><string>முட்டைக்கோசு</string><key>3_kn</key><string>ಕೋಸು ( kosu )</string><key>3_te</key><string></string><key>3_bn</key><string>বাঁধাকপি</string><key>3_mr</key><string></string>
+<key>4_en</key><string>Lettuce</string><key>4_hn</key><string>सलाद</string><key>4_ta</key><string>இலைக்கோசு</string><key>4_kn</key><string>ಎಲೆಕೋಸು (Elekōsu)</string><key>4_te</key><string></string><key>4_bn</key><string>লেটুস</string><key>4_mr</key><string></string>
+<key>5_en</key><string>Spinach</string><key>5_hn</key><string>पालक</string><key>5_ta</key><string>கீரை</string><key>5_kn</key><string>ಪಾಲಕ ಸೊಪ್ಪು (Palakki soppu)</string><key>5_te</key><string></string><key>5_bn</key><string>শাক</string><key>5_mr</key><string></string>
+<key>6_en</key><string>Tomato</string><key>6_hn</key><string>टमाटर</string><key>6_ta</key><string></string><key>6_kn</key><string></string><key>6_te</key><string></string><key>6_bn</key><string>টমেটো</string><key>6_mr</key><string></string>
+<key>7_en</key><string>Cucumber</string><key>7_hn</key><string>खीरा</string><key>7_ta</key><string></string><key>7_kn</key><string></string><key>7_te</key><string></string><key>7_bn</key><string>শসা</string><key>7_mr</key><string></string>
+<key>8_en</key><string>EggPlant</string><key>8_hn</key><string>बैंगन</string><key>8_ta</key><string></string><key>8_kn</key><string></string><key>8_te</key><string></string><key>8_bn</key><string>বেগুন</string><key>8_mr</key><string></string>
+<key>9_en</key><string>Potato</string><key>9_hn</key><string>आलू</string><key>9_ta</key><string></string><key>9_kn</key><string></string><key>9_te</key><string></string><key>9_bn</key><string>আলু</string><key>9_mr</key><string></string>
+<key>10_en</key><string>Garlic</string><key>10_hn</key><string>अदरक</string><key>10_ta</key><string></string><key>10_kn</key><string></string><key>10_te</key><string></string><key>10_bn</key><string>রসুন</string><key>10_mr</key><string></string>
+<key>11_en</key><string>Pumpkin</string><key>11_hn</key><string>कद्दू</string><key>11_ta</key><string></string><key>11_kn</key><string></string><key>11_te</key><string></string><key>11_bn</key><string>কুমড়া</string><key>11_mr</key><string></string>
+<key>12_en</key><string>Beet</string><key>12_hn</key><string>चुकंदर</string><key>12_ta</key><string></string><key>12_kn</key><string></string><key>12_te</key><string></string><key>12_bn</key><string>বীট</string><key>12_mr</key><string></string>
+<key>13_en</key><string>Carrot</string><key>13_hn</key><string>गाजर</string><key>13_ta</key><string></string><key>13_kn</key><string></string><key>13_te</key><string></string><key>13_bn</key><string>গাজর</string><key>13_mr</key><string></string>
+<key>14_en</key><string>Onion</string><key>14_hn</key><string>प्याज</string><key>14_ta</key><string></string><key>14_kn</key><string></string><key>14_te</key><string></string><key>14_bn</key><string>পেঁয়াজ</string><key>14_mr</key><string></string>
+<key>15_en</key><string>Pea</string><key>15_hn</key><string>मटर</string><key>15_ta</key><string></string><key>15_kn</key><string></string><key>15_te</key><string></string><key>15_bn</key><string>মটর</string><key>15_mr</key><string></string>
+<key>16_en</key><string>Capsicum</string><key>16_hn</key><string>शिमला मिर्च</string><key>16_ta</key><string></string><key>16_kn</key><string></string><key>16_te</key><string></string><key>16_bn</key><string>কৈপ্সকম</string><key>16_mr</key><string></string>
+<key>17_en</key><string>Corn</string><key>17_hn</key><string>मक्का</string><key>17_ta</key><string></string><key>17_kn</key><string></string><key>17_te</key><string></string><key>17_bn</key><string>ভূট্টা</string><key>17_mr</key><string></string>
+<key>18_en</key><string>Chilli</string><key>18_hn</key><string></string><key>18_ta</key><string></string><key>18_kn</key><string></string><key>18_te</key><string></string><key>18_bn</key><string></string><key>18_mr</key><string></string>
+</dict>
+</plist>

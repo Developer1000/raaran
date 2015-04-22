@@ -8,71 +8,75 @@
 	<array>
 		<dict>
 			<key>menu_key</key>
+			<string>subCategory</string>
+			<key>menu_title_key</key>
 			<string>animal</string>
 			<key>menu_order</key>
 			<integer>0</integer>
 			<key>menu_active</key>
 			<true/>
+			<key>hasSubCategory</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>menu_key</key>
-			<string>transport</string>
+			<string>subCategory</string>
 			<key>menu_title_key</key>
 			<string>transport</string>
 			<key>menu_order</key>
 			<integer>1</integer>
 			<key>menu_active</key>
 			<false/>
+			<key>hasSubCategory</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>menu_key</key>
-			<string>fruits</string>
+			<string>vegetable &amp; fruit</string>
 			<key>menu_title_key</key>
-			<string>Fruits &amp; Vegetables</string>
+			<string>vegetable &amp; fruit</string>
 			<key>menu_order</key>
 			<integer>3</integer>
 			<key>menu_active</key>
 			<false/>
+			<key>hasSubCategory</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>menu_key</key>
-			<string>colour</string>
+			<string>colour,day &amp; shape</string>
 			<key>menu_title_key</key>
-			<string>colour</string>
+			<string>colour,day &amp; shape</string>
 			<key>menu_order</key>
 			<integer>4</integer>
 			<key>menu_active</key>
 			<false/>
+			<key>hasSubCategory</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>menu_key</key>
-			<string>body</string>
+			<string>humanBody</string>
 			<key>menu_title_key</key>
-			<string>body</string>
+			<string>humanBody</string>
 			<key>menu_order</key>
 			<integer>5</integer>
 			<key>menu_active</key>
 			<false/>
+			<key>hasSubCategory</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>menu_key</key>
-			<string>relationship</string>
+			<string>people &amp; relationship</string>
 			<key>menu_title_key</key>
-			<string>relationship</string>
+			<string>people &amp; relationship</string>
 			<key>menu_order</key>
 			<integer>6</integer>
 			<key>menu_active</key>
 			<false/>
-		</dict>
-		<dict>
-			<key>menu_key</key>
-			<string>relationship</string>
-			<key>menu_title_key</key>
-			<string>relationship</string>
-			<key>menu_order</key>
-			<integer>6</integer>
-			<key>menu_active</key>
-			<false/>
+			<key>hasSubCategory</key>
+			<true/>
 		</dict>
 	</array>
 	<key>server_configurations</key>

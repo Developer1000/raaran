@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>1_en</key><string>Alligator</string><key>1_hn</key><string>मगर</string><key>1_ta</key><string>முதலை</string><key>1_kn</key><string>ಮೊಸಳೆ</string><key>1_te</key><string></string><key>1_bn</key><string>কুম্ভীর</string><key>1_mr</key><string>मगर</string>
+<key>2_en</key><string>Chameleons</string><key>2_hn</key><string>गिरगिट</string><key>2_ta</key><string>பச்சோந்தி</string><key>2_kn</key><string>ಊಸರವಳ್ಳಿ</string><key>2_te</key><string></string><key>2_bn</key><string>গিরগিটি</string><key>2_mr</key><string>रंग बदलू शकणारा सरडा</string>
+<key>3_en</key><string>Lizard</string><key>3_hn</key><string>छिपकली</string><key>3_ta</key><string>பல்லி</string><key>3_kn</key><string>ಹಲ್ಲಿ</string><key>3_te</key><string></string><key>3_bn</key><string>টিকটিকি</string><key>3_mr</key><string>सरडा</string>
+<key>4_en</key><string>Anaconda</string><key>4_hn</key><string>एनाकोंडा</string><key>4_ta</key><string>அனகோண்டா பாம்பு</string><key>4_kn</key><string>ಅನಕೊಂಡ</string><key>4_te</key><string></string><key>4_bn</key><string>সর্প</string><key>4_mr</key><string>दक्षिण अमेरिकेतील एक मोठा साप(Ameriketil Motha Saap)</string>
+<key>5_en</key><string>Python</string><key>5_hn</key><string>अजगर</string><key>5_ta</key><string>மலைப்பாம்பு</string><key>5_kn</key><string>ಹೆಬ್ಬಾವು</string><key>5_te</key><string></string><key>5_bn</key><string>পাইথন</string><key>5_mr</key><string>अजगर</string>
+<key>6_en</key><string>Tortoise</string><key>6_hn</key><string>कछुआ</string><key>6_ta</key><string>ஆமை</string><key>6_kn</key><string>ಆಮೆ</string><key>6_te</key><string></string><key>6_bn</key><string>কচ্ছপ</string><key>6_mr</key><string></string>
+<key>7_en</key><string>Dinosaur</string><key>7_hn</key><string>डायनासोर</string><key>7_ta</key><string>டைனோசர்</string><key>7_kn</key><string>ಡೈನೋಸಾರ್</string><key>7_te</key><string></string><key>7_bn</key><string>ডাইনোসর</string><key>7_mr</key><string></string>
+</dict>
+</plist>

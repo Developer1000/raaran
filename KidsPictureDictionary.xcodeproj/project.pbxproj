@@ -19,6 +19,10 @@
 		A0ADA6911AC08986002AB29E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0ADA6901AC08986002AB29E /* Images.xcassets */; };
 		A0ADA6A01AC08986002AB29E /* KidsPictureDictionaryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0ADA69F1AC08986002AB29E /* KidsPictureDictionaryTests.swift */; };
 		A0ADA6AC1AC09032002AB29E /* ItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0ADA6AB1AC09032002AB29E /* ItemViewController.swift */; };
+		A0CE16731AE77BD500EC28BC /* colour,day & shape in Resources */ = {isa = PBXBuildFile; fileRef = A0CE166F1AE77BD500EC28BC /* colour,day & shape */; };
+		A0CE16741AE77BD500EC28BC /* humanBody in Resources */ = {isa = PBXBuildFile; fileRef = A0CE16701AE77BD500EC28BC /* humanBody */; };
+		A0CE16751AE77BD500EC28BC /* people & relationship in Resources */ = {isa = PBXBuildFile; fileRef = A0CE16711AE77BD500EC28BC /* people & relationship */; };
+		A0CE16761AE77BD500EC28BC /* vegetable & fruit in Resources */ = {isa = PBXBuildFile; fileRef = A0CE16721AE77BD500EC28BC /* vegetable & fruit */; };
 		D84A8DF51ACB79C100C4B137 /* appMetaData.plist in Resources */ = {isa = PBXBuildFile; fileRef = D84A8DD71ACB79C100C4B137 /* appMetaData.plist */; };
 		D84A8E231ACB891A00C4B137 /* transport in Resources */ = {isa = PBXBuildFile; fileRef = D84A8E221ACB891A00C4B137 /* transport */; };
 		D84A8E521ACBC41100C4B137 /* animal in Resources */ = {isa = PBXBuildFile; fileRef = D84A8E511ACBC41100C4B137 /* animal */; };
@@ -53,6 +57,10 @@
 		A0ADA69E1AC08986002AB29E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A0ADA69F1AC08986002AB29E /* KidsPictureDictionaryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KidsPictureDictionaryTests.swift; sourceTree = "<group>"; };
 		A0ADA6AB1AC09032002AB29E /* ItemViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemViewController.swift; sourceTree = "<group>"; };
+		A0CE166F1AE77BD500EC28BC /* colour,day & shape */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "colour,day & shape"; sourceTree = "<group>"; };
+		A0CE16701AE77BD500EC28BC /* humanBody */ = {isa = PBXFileReference; lastKnownFileType = folder; path = humanBody; sourceTree = "<group>"; };
+		A0CE16711AE77BD500EC28BC /* people & relationship */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "people & relationship"; sourceTree = "<group>"; };
+		A0CE16721AE77BD500EC28BC /* vegetable & fruit */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "vegetable & fruit"; sourceTree = "<group>"; };
 		D84A8DD71ACB79C100C4B137 /* appMetaData.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = appMetaData.plist; sourceTree = "<group>"; };
 		D84A8E221ACB891A00C4B137 /* transport */ = {isa = PBXFileReference; lastKnownFileType = folder; path = transport; sourceTree = "<group>"; };
 		D84A8E511ACBC41100C4B137 /* animal */ = {isa = PBXFileReference; lastKnownFileType = folder; path = animal; sourceTree = "<group>"; };
@@ -146,6 +154,10 @@
 		D84A8DC21ACB79C100C4B137 /* CategoryPlist */ = {
 			isa = PBXGroup;
 			children = (
+				A0CE166F1AE77BD500EC28BC /* colour,day & shape */,
+				A0CE16701AE77BD500EC28BC /* humanBody */,
+				A0CE16711AE77BD500EC28BC /* people & relationship */,
+				A0CE16721AE77BD500EC28BC /* vegetable & fruit */,
 				D84A8E511ACBC41100C4B137 /* animal */,
 				D84A8E221ACB891A00C4B137 /* transport */,
 				D84A8DD71ACB79C100C4B137 /* appMetaData.plist */,
@@ -232,11 +244,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0CE16741AE77BD500EC28BC /* humanBody in Resources */,
+				A0CE16751AE77BD500EC28BC /* people & relationship in Resources */,
 				A0272B271AC48E1A00806020 /* Main.storyboard in Resources */,
 				D84A8DF51ACB79C100C4B137 /* appMetaData.plist in Resources */,
 				D84A8E521ACBC41100C4B137 /* animal in Resources */,
+				A0CE16731AE77BD500EC28BC /* colour,day & shape in Resources */,
 				A0ADA6911AC08986002AB29E /* Images.xcassets in Resources */,
 				D84A8E231ACB891A00C4B137 /* transport in Resources */,
+				A0CE16761AE77BD500EC28BC /* vegetable & fruit in Resources */,
 				A0272B261AC48E1A00806020 /* LaunchScreen.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
