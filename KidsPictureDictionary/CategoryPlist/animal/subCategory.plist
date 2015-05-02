@@ -22,7 +22,7 @@
 			<key>menu_title_key</key>
 			<string>insect</string>
 			<key>menu_order</key>
-			<integer>3</integer>
+			<integer>2</integer>
 			<key>menu_active</key>
 			<false/>
 		</dict>
@@ -32,7 +32,7 @@
 			<key>menu_title_key</key>
 			<string>mammal</string>
 			<key>menu_order</key>
-			<integer>4</integer>
+			<integer>3</integer>
 			<key>menu_active</key>
 			<false/>
 		</dict>
@@ -41,6 +41,16 @@
 			<string>reptile</string>
 			<key>menu_title_key</key>
 			<string>reptile</string>
+			<key>menu_order</key>
+			<integer>4</integer>
+			<key>menu_active</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>menu_key</key>
+			<string>aquatic</string>
+			<key>menu_title_key</key>
+			<string>aquatic</string>
 			<key>menu_order</key>
 			<integer>5</integer>
 			<key>menu_active</key>
