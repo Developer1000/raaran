@@ -209,6 +209,7 @@
 		A0ADA6791AC08985002AB29E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Cognizant Technology Solutions";
 				TargetAttributes = {
