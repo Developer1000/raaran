@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>1_en</key><string>Auto Rikshaw</string><key>1_hn</key><string>ऑटो रिक्शा</string><key>1_ta</key><string>ஆட்டோ ரிக்சா </string><key>1_kn</key><string>ಆಟೋ ರಿಕ್ಷಾ (Auto Rickshaw) </string><key>1_te</key><string></string><key>1_bn</key><string>অটো রিকশা</string><key>1_mr</key><string></string>
+<key>1_en</key><string>AirPlane</string><key>1_hn</key><string>हवाई जहाज</string><key>1_ta</key><string>விமானம்</string><key>1_kn</key><string>ವಿಮಾನ (Vimāna)</string><key>1_te</key><string></string><key>1_bn</key><string>বিমান</string><key>1_mr</key><string></string>
+<key>2_en</key><string>Hot Air Baloon</string><key>2_hn</key><string>गर्म हवा का गुब्बारा</string><key>2_ta</key><string>வெப்ப காற்று வளிக்கூண்டு</string><key>2_kn</key><string>ಬಿಸಿ ಗಾಳಿಯ ಬಲೂನ್ (Bisi Gaaliya Baloonu)</string><key>2_te</key><string></string><key>2_bn</key><string>হট এয়ার বেলুন</string><key>2_mr</key><string></string>
+<key>3_en</key><string>Helicopter</string><key>3_hn</key><string>हेलिकॉप्टर</string><key>3_ta</key><string>வானுார்தி</string><key>3_kn</key><string>ಹೆಲಿಕಾಪ್ಟರ್ (Helicopter)</string><key>3_te</key><string></string><key>3_bn</key><string>হেলিকোপটার</string><key>3_mr</key><string></string>
+<key>4_en</key><string>Glider</string><key>4_hn</key><string>ग्लाइडर</string><key>4_ta</key><string>மிதவை வானூர்தி</string><key>4_kn</key><string>ಗ್ಲೈಡರ್ (Glider) </string><key>4_te</key><string></string><key>4_bn</key><string>এনজির্নহীন বিমান</string><key>4_mr</key><string></string>
+<key>5_en</key><string>Rocket</string><key>5_hn</key><string>राकेट</string><key>5_ta</key><string>விண்வெளிக்கலன்</string><key>5_kn</key><string>ಆಕಾಶಬಾಣ (Aakasha baana)</string><key>5_te</key><string></string><key>5_bn</key><string>রকেট</string><key>5_mr</key><string></string>
+<key>6_en</key><string>SpaceShip</string><key>6_hn</key><string>अंतरिक्ष यान</string><key>6_ta</key><string>விண்வெளி கப்பல்</string><key>6_kn</key><string></string><key>6_te</key><string></string><key>6_bn</key><string>মহাকাশযান</string><key>6_mr</key><string></string>
+<key>7_en</key><string>Fighter Plane</string><key>7_hn</key><string>लड़ाकू विमान</string><key>7_ta</key><string>போர் விமானம்</string><key>7_kn</key><string></string><key>7_te</key><string></string><key>7_bn</key><string>জঙ্গী বিমান</string><key>7_mr</key><string></string>
+<key>8_en</key><string>Parachute</string><key>8_hn</key><string>पैराशूट</string><key>8_ta</key><string>வான்குடை மிதவை</string><key>8_kn</key><string></string><key>8_te</key><string></string><key>8_bn</key><string>প্যারাশুট</string><key>8_mr</key><string></string>
+</dict>
+</plist>

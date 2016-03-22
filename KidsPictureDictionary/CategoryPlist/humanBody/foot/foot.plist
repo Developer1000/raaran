@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>1_en</key><string>Ankle</string><key>1_hn</key><string>टखना</string><key>1_ta</key><string>கணுக்கால்</string><key>1_kn</key><string>ಪಾದದ (Pādada)</string><key>1_te</key><string></string><key>1_bn</key><string>গোড়ালি</string><key>1_mr</key><string></string>
+<key>2_en</key><string>Heel</string><key>2_hn</key><string>एड़ी</string><key>2_ta</key><string>குதிகால்</string><key>2_kn</key><string>ಹಿಮ್ಮಡಿ (Himmadi)</string><key>2_te</key><string></string><key>2_bn</key><string>এড়ি</string><key>2_mr</key><string></string>
+<key>3_en</key><string>Toe</string><key>3_hn</key><string>पांव का अंगूठा</string><key>3_ta</key><string>கால்விரல்</string><key>3_kn</key><string>ಕಿರು ಬೆರಳು (kiru beralu)</string><key>3_te</key><string></string><key>3_bn</key><string>অঙ্গুলী</string><key>3_mr</key><string></string>
+</dict>
+</plist>

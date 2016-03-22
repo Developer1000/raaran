@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1_en</key>
+	<string>SeaHorse</string>
+	<key>1_hn</key>
+	<string>समुद्री घोड़े</string>
+	<key>1_ta</key>
+	<string>கடல் குதிரை</string>
+	<key>1_kn</key>
+	<string>ನೀರ್ಗುದುರೆ</string>
+	<key>1_te</key>
+	<string></string>
+	<key>1_bn</key>
+	<string>সিন্ধুঘোটক</string>
+	<key>1_mr</key>
+	<string>समुद्री घोड़े</string>
+	<key>2_en</key>
+	<string>Shark</string>
+	<key>2_hn</key>
+	<string>शार्क मछली</string>
+	<key>2_ta</key>
+	<string>சுறா</string>
+	<key>2_kn</key>
+	<string>ಶಾರ್ಕ್</string>
+	<key>2_te</key>
+	<string></string>
+	<key>2_bn</key>
+	<string>হাঙ্গর</string>
+	<key>2_mr</key>
+	<string>शार्क नामक मासा</string>
+	<key>3_en</key>
+	<string>GoldFish</string>
+	<key>3_hn</key>
+	<string>ज़र्द मछली</string>
+	<key>3_ta</key>
+	<string>தங்கமீன்</string>
+	<key>3_kn</key>
+	<string>ಚಿನ್ನದ ಮೀನು</string>
+	<key>3_te</key>
+	<string></string>
+	<key>3_bn</key>
+	<string>গোল্ডফিশ</string>
+	<key>3_mr</key>
+	<string>सोनेरी मासा                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </string>
+	<key>4_en</key>
+	<string>JellyFish</string>
+	<key>4_hn</key>
+	<string>जेलीफ़िश</string>
+	<key>4_ta</key>
+	<string>ஜெல்லி மீன்</string>
+	<key>4_kn</key>
+	<string>ಜೆಲ್ಲಿ ಮೀನು</string>
+	<key>4_te</key>
+	<string></string>
+	<key>4_bn</key>
+	<string>জেলি</string>
+	<key>4_mr</key>
+	<string>मुरंबासारखा दिसणारा एक मासा </string>
+	<key>5_en</key>
+	<string>StarFish</string>
+	<key>5_hn</key>
+	<string>सितारा  मछली</string>
+	<key>5_ta</key>
+	<string>நட்சத்திர மீன்</string>
+	<key>5_kn</key>
+	<string>ನಕ್ಷತ್ರ ಮೀನು</string>
+	<key>5_te</key>
+	<string></string>
+	<key>5_bn</key>
+	<string>তারামাছ</string>
+	<key>5_mr</key>
+	<string>तार्याच्या आकाराचा एक सागरी प्राणी</string>
+	<key>6_en</key>
+	<string>Whale</string>
+	<key>6_hn</key>
+	<string>व्हेल</string>
+	<key>6_ta</key>
+	<string>திமிங்கிலம்</string>
+	<key>6_kn</key>
+	<string>ತಿಮಿಂಗಿಲ</string>
+	<key>6_te</key>
+	<string></string>
+	<key>6_bn</key>
+	<string>হোয়েল</string>
+	<key>6_mr</key>
+	<string></string>
+	<key>7_en</key>
+	<string>Dolphin</string>
+	<key>7_hn</key>
+	<string>डॉल्फिन</string>
+	<key>7_ta</key>
+	<string>டால்பின்</string>
+	<key>7_kn</key>
+	<string>ಡಾಲ್ಫಿನ್</string>
+	<key>7_te</key>
+	<string></string>
+	<key>7_bn</key>
+	<string>শুশুক</string>
+	<key>7_mr</key>
+	<string></string>
+	<key>8_en</key>
+	<string>Seal</string>
+	<key>8_hn</key>
+	<string>सील</string>
+	<key>8_ta</key>
+	<string>நீர் நாய்</string>
+	<key>8_kn</key>
+	<string>ನೀರು ನಾಯಿ</string>
+	<key>8_te</key>
+	<string></string>
+	<key>8_bn</key>
+	<string>সীল</string>
+	<key>8_mr</key>
+	<string></string>
+	<key>9_en</key>
+	<string>Frog</string>
+	<key>9_hn</key>
+	<string>मेंढक</string>
+	<key>9_ta</key>
+	<string>தவளை</string>
+	<key>9_kn</key>
+	<string>ಕಪ್ಪೆ</string>
+	<key>9_te</key>
+	<string></string>
+	<key>9_bn</key>
+	<string>বেঙ</string>
+	<key>9_mr</key>
+	<string></string>
+	<key>10_en</key>
+	<string>Octopus</string>
+	<key>10_hn</key>
+	<string>ऑक्टोपस</string>
+	<key>10_ta</key>
+	<string>ஆக்டோபஸ்</string>
+	<key>10_kn</key>
+	<string>ಆಕ್ಟಪಸ್, ಅಷ್ಟಪಾದಿ</string>
+	<key>10_te</key>
+	<string></string>
+	<key>10_bn</key>
+	<string>অক্টোপাস</string>
+	<key>10_mr</key>
+	<string></string>
+	<key>11_en</key>
+	<string>Prawn</string>
+	<key>11_hn</key>
+	<string>झींगा</string>
+	<key>11_ta</key>
+	<string>இறால்</string>
+	<key>11_kn</key>
+	<string>ಸಿಗಡಿ</string>
+	<key>11_te</key>
+	<string></string>
+	<key>11_bn</key>
+	<string>চিংড়ি</string>
+	<key>11_mr</key>
+	<string></string>
+</dict>
+</plist>

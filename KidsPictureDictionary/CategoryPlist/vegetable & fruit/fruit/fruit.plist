@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>1_en</key><string>Apple</string><key>1_hn</key><string>सेब</string><key>1_ta</key><string>ஆப்பிள்</string><key>1_kn</key><string>ಸೇಬು (Sēbu)</string><key>1_te</key><string></string><key>1_bn</key><string>আপেল</string><key>1_mr</key><string></string>
+<key>2_en</key><string>Coconut</string><key>2_hn</key><string>नारियल</string><key>2_ta</key><string>தேங்காய்</string><key>2_kn</key><string>ತೆಂಗಿನ Kaai (Teṅgina)</string><key>2_te</key><string></string><key>2_bn</key><string>নারকেল</string><key>2_mr</key><string></string>
+<key>3_en</key><string>PineApple</string><key>3_hn</key><string>अनन्नास</string><key>3_ta</key><string>அன்னாசி</string><key>3_kn</key><string>ಅನಾನಸ್ (Anānas)</string><key>3_te</key><string></string><key>3_bn</key><string>আনারস</string><key>3_mr</key><string></string>
+<key>4_en</key><string>Mango</string><key>4_hn</key><string>आम</string><key>4_ta</key><string>மாம்பழம்</string><key>4_kn</key><string>ಮಾವಿನ Hannu (Māvina)</string><key>4_te</key><string></string><key>4_bn</key><string>আম</string><key>4_mr</key><string></string>
+<key>5_en</key><string>Papaya</string><key>5_hn</key><string>पपीता</string><key>5_ta</key><string>பப்பாளி</string><key>5_kn</key><string>ಪಪ್ಪಾಯಿ (Pappāyi)</string><key>5_te</key><string></string><key>5_bn</key><string>পেঁপে</string><key>5_mr</key><string></string>
+<key>6_en</key><string>Orange</string><key>6_hn</key><string>नारंगी</string><key>6_ta</key><string>ஆரஞ்சு</string><key>6_kn</key><string></string><key>6_te</key><string></string><key>6_bn</key><string>কমলা</string><key>6_mr</key><string></string>
+<key>7_en</key><string>Lemon</string><key>7_hn</key><string>नींबू</string><key>7_ta</key><string>எலுமிச்சைப் பழம்</string><key>7_kn</key><string></string><key>7_te</key><string></string><key>7_bn</key><string>লেবু</string><key>7_mr</key><string></string>
+<key>8_en</key><string>Pear</string><key>8_hn</key><string>नाशपाती</string><key>8_ta</key><string>பேரிக்காய்</string><key>8_kn</key><string></string><key>8_te</key><string></string><key>8_bn</key><string>নাশপাতি</string><key>8_mr</key><string></string>
+<key>9_en</key><string>Watermelon</string><key>9_hn</key><string>तरबूज</string><key>9_ta</key><string>தர்பூசணி</string><key>9_kn</key><string></string><key>9_te</key><string></string><key>9_bn</key><string>তরমুজ</string><key>9_mr</key><string></string>
+<key>10_en</key><string>Banana</string><key>10_hn</key><string>केला</string><key>10_ta</key><string>வாழைப்பழம்</string><key>10_kn</key><string></string><key>10_te</key><string></string><key>10_bn</key><string>কলা</string><key>10_mr</key><string></string>
+<key>11_en</key><string>pomegranate</string><key>11_hn</key><string>अनार</string><key>11_ta</key><string>மாதுளம்பழம்</string><key>11_kn</key><string></string><key>11_te</key><string></string><key>11_bn</key><string>ডালিম</string><key>11_mr</key><string></string>
+<key>12_en</key><string>StrawBerry</string><key>12_hn</key><string>स्ट्रॉबेरी</string><key>12_ta</key><string>ஸ்ட்ராபெரி</string><key>12_kn</key><string></string><key>12_te</key><string></string><key>12_bn</key><string>স্ট্রবেরি</string><key>12_mr</key><string></string>
+<key>13_en</key><string>Grapes</string><key>13_hn</key><string>अंगूर</string><key>13_ta</key><string>திராட்சை</string><key>13_kn</key><string></string><key>13_te</key><string></string><key>13_bn</key><string>আঙ্গুর</string><key>13_mr</key><string></string>
+<key>14_en</key><string>Kiwi</string><key>14_hn</key><string>कीवी</string><key>14_ta</key><string>கிவி</string><key>14_kn</key><string></string><key>14_te</key><string></string><key>14_bn</key><string>কিউই</string><key>14_mr</key><string></string>
+<key>15_en</key><string>Gooseberry</string><key>15_hn</key><string>करौंदा</string><key>15_ta</key><string>நெல்லிக்காய்</string><key>15_kn</key><string></string><key>15_te</key><string></string><key>15_bn</key><string>বৈঁচি</string><key>15_mr</key><string></string>
+<key>16_en</key><string>Cherry</string><key>16_hn</key><string>चेरी</string><key>16_ta</key><string> செர்ரிபழம்</string><key>16_kn</key><string></string><key>16_te</key><string></string><key>16_bn</key><string>চেরি</string><key>16_mr</key><string></string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>1_en</key><string>Ants</string><key>1_hn</key><string>चींटियों</string><key>1_ta</key><string>எறும்புகள்</string><key>1_kn</key><string>ಇರುವೆಗಳು</string><key>1_te</key><string></string><key>1_bn</key><string> পিঁপড়ে</string><key>1_mr</key><string>मुंगी</string>
+<key>2_en</key><string>Butterfly</string><key>2_hn</key><string>तितली</string><key>2_ta</key><string>பட்டாம்பூச்சி</string><key>2_kn</key><string>ಚಿಟ್ಟೆ</string><key>2_te</key><string></string><key>2_bn</key><string>প্রজাপতি</string><key>2_mr</key><string>फुलपाखरू </string>
+<key>3_en</key><string>Bee</string><key>3_hn</key><string>मधुमक्खी</string><key>3_ta</key><string>தேனி</string><key>3_kn</key><string>ಜೇನು ನೊಣ</string><key>3_te</key><string></string><key>3_bn</key><string>মৌমাছি</string><key>3_mr</key><string>मधमाशी </string>
+<key>4_en</key><string>Scorpion</string><key>4_hn</key><string>बिच्छू</string><key>4_ta</key><string>தேள்</string><key>4_kn</key><string>ಚೇಳು</string><key>4_te</key><string></string><key>4_bn</key><string>বৃশ্চিকরাশি</string><key>4_mr</key><string>विंचू</string>
+<key>5_en</key><string>Beetle</string><key>5_hn</key><string>भौंरा</string><key>5_ta</key><string>வண்டு</string><key>5_kn</key><string>ಜೀರುಂಡೆ</string><key>5_te</key><string></string><key>5_bn</key><string>পোকা</string><key>5_mr</key><string>एक प्रकारचा किडा</string>
+<key>6_en</key><string>Caterpillar</string><key>6_hn</key><string>इल्ली</string><key>6_ta</key><string>கம்பளிப்புழு</string><key>6_kn</key><string>ಕ೦ಬಳಿಹುಳು</string><key>6_te</key><string></string><key>6_bn</key><string>শুঁয়াপোকা</string><key>6_mr</key><string></string>
+<key>7_en</key><string>Cockroach</string><key>7_hn</key><string>तिलचट्टा</string><key>7_ta</key><string>கரப்பான் பூச்சி</string><key>7_kn</key><string>ಜಿರಲೆ</string><key>7_te</key><string></string><key>7_bn</key><string>তেলাপোকা</string><key>7_mr</key><string></string>
+<key>8_en</key><string>GrassHopper</string><key>8_hn</key><string>टिड्डा</string><key>8_ta</key><string>வெட்டுக்கிளி</string><key>8_kn</key><string>ಮಿಡತೆ</string><key>8_te</key><string></string><key>8_bn</key><string>ফড়িং</string><key>8_mr</key><string></string>
+<key>9_en</key><string>HouseFly</string><key>9_hn</key><string>मक्खी</string><key>9_ta</key><string>ஈ</string><key>9_kn</key><string>ಮನೆ ನೊಣ</string><key>9_te</key><string></string><key>9_bn</key><string>মাছি</string><key>9_mr</key><string></string>
+<key>10_en</key><string>Mosquito</string><key>10_hn</key><string>मच्छर</string><key>10_ta</key><string>கொசு</string><key>10_kn</key><string>ಸೊಳ್ಳೆ</string><key>10_te</key><string></string><key>10_bn</key><string>মশা</string><key>10_mr</key><string></string>
+<key>11_en</key><string>Spider</string><key>11_hn</key><string>मकड़ी</string><key>11_ta</key><string>சிலந்தி</string><key>11_kn</key><string>ಜೇಡ</string><key>11_te</key><string></string><key>11_bn</key><string>মাকড়সা</string><key>11_mr</key><string></string>
+</dict>
+</plist>

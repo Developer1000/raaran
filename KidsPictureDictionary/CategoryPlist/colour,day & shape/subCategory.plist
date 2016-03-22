@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>key</key>
+	<string>info</string>
+	<key>sub_category_list</key>
+	<array>
+		<dict>
+			<key>menu_key</key>
+			<string>colour</string>
+			<key>menu_title_key</key>
+			<string>colour</string>
+			<key>menu_order</key>
+			<integer>1</integer>
+			<key>menu_active</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>menu_key</key>
+			<string>day</string>
+			<key>menu_title_key</key>
+			<string>day</string>
+			<key>menu_order</key>
+			<integer>3</integer>
+			<key>menu_active</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>menu_key</key>
+			<string>month</string>
+			<key>menu_title_key</key>
+			<string>month</string>
+			<key>menu_order</key>
+			<integer>4</integer>
+			<key>menu_active</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>menu_key</key>
+			<string>season</string>
+			<key>menu_title_key</key>
+			<string>season</string>
+			<key>menu_order</key>
+			<integer>5</integer>
+			<key>menu_active</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>menu_key</key>
+			<string>shape</string>
+			<key>menu_title_key</key>
+			<string>shape</string>
+			<key>menu_order</key>
+			<integer>5</integer>
+			<key>menu_active</key>
+			<false/>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>1_en</key><string>Face</string><key>1_hn</key><string>चेहरा</string><key>1_ta</key><string>முகம்</string><key>1_kn</key><string>ಮುಖ (Mukha)</string><key>1_te</key><string></string><key>1_bn</key><string>মুখ</string><key>1_mr</key><string></string>
+<key>2_en</key><string>Mouth</string><key>2_hn</key><string>मुंह</string><key>2_ta</key><string>வாய்</string><key>2_kn</key><string>ಬಾಯಿ (Bāyi)</string><key>2_te</key><string></string><key>2_bn</key><string>মুখ</string><key>2_mr</key><string></string>
+<key>3_en</key><string>Chin</string><key>3_hn</key><string>ठुड्डी</string><key>3_ta</key><string>கன்னம்</string><key>3_kn</key><string>ಗದ್ದ (Gadda)</string><key>3_te</key><string></string><key>3_bn</key><string>চিবুক</string><key>3_mr</key><string></string>
+<key>4_en</key><string>Neck</string><key>4_hn</key><string>गरदन</string><key>4_ta</key><string>கழுத்து</string><key>4_kn</key><string> ಕತ್ತು (Kattu)</string><key>4_te</key><string></string><key>4_bn</key><string>গলা</string><key>4_mr</key><string></string>
+<key>5_en</key><string>Shoulder</string><key>5_hn</key><string>कंधा</string><key>5_ta</key><string>தோள்</string><key>5_kn</key><string>ಭುಜದ (Bhujada)</string><key>5_te</key><string></string><key>5_bn</key><string>স্কন্ধ</string><key>5_mr</key><string></string>
+<key>6_en</key><string>Arm</string><key>6_hn</key><string>बांह</string><key>6_ta</key><string>கை</string><key>6_kn</key><string></string><key>6_te</key><string></string><key>6_bn</key><string>ভুজ</string><key>6_mr</key><string></string>
+<key>7_en</key><string>Elbow</string><key>7_hn</key><string>कोहनी</string><key>7_ta</key><string>முழங்கை</string><key>7_kn</key><string></string><key>7_te</key><string></string><key>7_bn</key><string>কনুই</string><key>7_mr</key><string></string>
+<key>8_en</key><string>Chest</string><key>8_hn</key><string>छाती</string><key>8_ta</key><string>மார்பு</string><key>8_kn</key><string></string><key>8_te</key><string></string><key>8_bn</key><string>বুক</string><key>8_mr</key><string></string>
+<key>9_en</key><string>Abdomen</string><key>9_hn</key><string>पेट</string><key>9_ta</key><string>அடிவயிறு</string><key>9_kn</key><string></string><key>9_te</key><string></string><key>9_bn</key><string>উদর</string><key>9_mr</key><string></string>
+<key>10_en</key><string>Leg</string><key>10_hn</key><string>टांग</string><key>10_ta</key><string>கால்</string><key>10_kn</key><string></string><key>10_te</key><string></string><key>10_bn</key><string>পা</string><key>10_mr</key><string></string>
+</dict>
+</plist>
